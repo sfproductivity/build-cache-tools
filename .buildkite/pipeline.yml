@@ -1,0 +1,3 @@
+steps:
+  - label: "warmup"
+    command: echo "Cache warmup complete."
